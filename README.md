@@ -1,6 +1,6 @@
 # Netflix Case Study - Dissecting the Global Streaming Giant
 In this comprehensive case study, we delved into the meteoric rise and sustained dominance of Netflix, examining its key innovations, business strategies, and the impact of its disruptive model on the entertainment industry. By focusing on Netflix's journey from a DVD rental service to a global streaming powerhouse, we analyzed the critical success factors that have made it a leading force in digital entertainment.
-![netflixcasestudy3](https://github.com/user-attachments/assets/1424dae9-44c2-40e0-b7f2-3bfe40588056)
+![netflixcasestudy3](https://github.com/user-attachments/assets/bf2dfedd-9cec-4bc5-8445-80e268db8389)
 
 # Key Insights from the Case Study:
 Pioneering Business Model: Netflix’s early shift from DVD rentals to a subscription-based streaming service in 2007 was pivotal in capturing the first-mover advantage in the streaming market. This move disrupted traditional media consumption and set the stage for its future success.
@@ -15,6 +15,7 @@ Pioneering Business Model: Netflix’s early shift from DVD rentals to a subscri
 Disruptive Innovation: We explored how Netflix consistently challenged traditional TV networks and cinemas by creating binge-watching culture and offering ad-free, on-demand content. This approach disrupted linear storytelling and changed the way audiences consumed media.
 
 * Product Evolution: Our research examined the transformation of Netflix’s product, from its user-friendly interface to multi-device compatibility. These innovations, combined with interactive content and an intuitive UI, have enhanced user engagement.
+![netflixcasestudy2](https://github.com/user-attachments/assets/76af4130-9afa-46b5-a50d-2c4f4d934b0e)
 
 * Growth & Financial Success: The case study traced Netflix’s financial trajectory, with exponential revenue growth from $3.1 billion in 2011 to $33.7 billion in 2023. This sustained growth was attributed to its subscription-based model, tiered pricing plans, and strategic acquisitions.
 ![image](https://github.com/user-attachments/assets/f5654459-5b74-425f-aaae-ea1e2ca76207)
@@ -22,10 +23,9 @@ Disruptive Innovation: We explored how Netflix consistently challenged tradition
 
 # Key Learning Outcomes:
 * Content Creation & Regional Focus: Netflix’s investment in regional content and co-productions allowed it to tap into new markets and build a global audience. This diversification, along with Netflix Originals, has fortified its position in the streaming space.
-![netflixcasestudy2](https://github.com/user-attachments/assets/2f584dd5-88dd-4192-a482-25bebbc97778)
 
 * Future-Ready Innovations: Netflix is actively exploring new technologies, such as virtual reality (VR) and mobile gaming, aiming to revolutionize the entertainment experience further. The potential for live sports streaming adds another dimension to Netflix’s expansion strategy.
-![netflixcasestudy1](https://github.com/user-attachments/assets/c034d5fe-43e0-49fe-84b0-c965be5df994)
+![image](https://github.com/user-attachments/assets/4a79c965-3149-47ee-9a06-04f292702b90)
 
 * Challenges & Opportunities: While Netflix has enjoyed significant success, our study also discussed operational challenges, such as rising content costs and increasing competition from platforms like Disney+, Amazon Prime, and HBO Max. However, with its focus on innovation and market adaptability, Netflix is well-positioned to continue thriving.
 
